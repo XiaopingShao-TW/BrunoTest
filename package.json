@@ -1,0 +1,14 @@
+{
+  "name": "bruno-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "bru run --env testEnv"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@usebruno/cli": "^1.0.0"
+  }
+}

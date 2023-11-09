@@ -21,4 +21,4 @@ steps:
 
   - script: |
       npm run test
-    displayName: 'Run Bruno tests'
+    displayName: 'Run Bruno test'
